@@ -1,6 +1,6 @@
 ### Olá sou o Alex Almeida👋
 
-- 🔭 Trabalho com Desenvolvimento Full-Stack..
+- 🔭 Full-Stack Developer..
 - 🌱 Estudando Javascript, React-native e Node.js...
 
 <div align="center">
