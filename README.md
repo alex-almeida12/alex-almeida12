@@ -1,7 +1,7 @@
 ### Olá sou o Alex Almeida👋
 
 - 🔭 Full-Stack Developer..
-- 🌱 Estudando Javascript, React-native e Node.js...
+- 🌱 Estudando Javascript, React, Node.js, Java e Spring Boot...
 
 <div align="center">
   <a href="https://github.com/alex-almeida12">
