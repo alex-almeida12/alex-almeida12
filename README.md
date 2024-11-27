@@ -1,6 +1,6 @@
 ### Olá sou o Alex Almeida👋
 
-- 🔭 Full-Stack Developer..
+- 🔭 Back-End Developer..
 - 🌱 Estudando Javascript, React, Node.js, Java e Spring Boot...
 
 <div align="center">
